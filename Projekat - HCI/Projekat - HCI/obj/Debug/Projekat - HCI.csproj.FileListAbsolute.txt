@@ -1,0 +1,53 @@
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Logovanje.g.cs
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\bin\Debug\Projekat - HCI.exe.config
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\bin\Debug\Projekat - HCI.exe
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\bin\Debug\Projekat - HCI.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Logovanje.baml
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.g.resources
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat___HCI.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.exe
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\bin\Debug\Class.dll
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\bin\Debug\Class.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Dodaj.g.cs
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Dodaj.baml
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Izmeni.g.cs
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Izmeni.baml
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Procitaj.g.cs
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Procitaj.baml
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\bin\Debug\Projekat - HCI.exe.config
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\bin\Debug\Projekat - HCI.exe
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\bin\Debug\Projekat - HCI.pdb
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\bin\Debug\Class.dll
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\bin\Debug\Class.pdb
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Dodaj.g.cs
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Izmeni.g.cs
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Logovanje.g.cs
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Procitaj.g.cs
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\App.g.cs
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI_MarkupCompile.lref
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Dodaj.baml
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Izmeni.baml
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Logovanje.baml
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Procitaj.baml
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.g.resources
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat___HCI.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.exe
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat - HCI.pdb
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\obj\Debug\Projekat.35B1BB9E.Up2Date

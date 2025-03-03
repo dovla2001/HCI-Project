@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfBayern xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Bayern>
+    <SifraClanka>100</SifraClanka>
+    <NaslovClanka>Postava</NaslovClanka>
+    <DatumObjavljivanja>2023-03-31T12:30:51.6326371+02:00</DatumObjavljivanja>
+    <Slika>C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\Slike\postava.jpg</Slika>
+    <Fajl>Postava.rtf</Fajl>
+  </Bayern>
+  <Bayern>
+    <SifraClanka>101</SifraClanka>
+    <NaslovClanka>Šampioni Evrope</NaslovClanka>
+    <DatumObjavljivanja>2023-03-31T12:35:36.0360358+02:00</DatumObjavljivanja>
+    <Slika>C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\Slike\sampioni Evrope.jpg</Slika>
+    <Fajl>Šampioni Evrope.rtf</Fajl>
+  </Bayern>
+  <Bayern>
+    <SifraClanka>102</SifraClanka>
+    <NaslovClanka>Šampioni Nemacke</NaslovClanka>
+    <DatumObjavljivanja>2023-03-31T15:59:58.7098987+02:00</DatumObjavljivanja>
+    <Slika>C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\Slike\sampioni Bundeslige.jpg</Slika>
+    <Fajl>Šampioni Nemacke.rtf</Fajl>
+  </Bayern>
+  <Bayern>
+    <SifraClanka>103</SifraClanka>
+    <NaslovClanka>Najuspešnija sezona</NaslovClanka>
+    <DatumObjavljivanja>2023-03-31T18:39:36.0417323+02:00</DatumObjavljivanja>
+    <Slika>C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Projekat - HCI\Slike\triple kruna.jpg</Slika>
+    <Fajl>Najuspešnija sezona.rtf</Fajl>
+  </Bayern>
+</ArrayOfBayern>

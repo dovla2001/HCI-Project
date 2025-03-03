@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50ECAFCF-B0A6-43B0-A839-A21875044DAD}|Class\\Class.csproj|C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\class\\bayern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ECAFCF-B0A6-43B0-A839-A21875044DAD}|Class\\Class.csproj|solutionrelative:class\\bayern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ECAFCF-B0A6-43B0-A839-A21875044DAD}|Class\\Class.csproj|C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\class\\dataio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ECAFCF-B0A6-43B0-A839-A21875044DAD}|Class\\Class.csproj|solutionrelative:class\\dataio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\projekat - hci\\dodaj.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|solutionrelative:projekat - hci\\dodaj.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|c:\\users\\lenovo\\desktop\\3. godina\\2. semestar\\hci\\pz1\\projekat sam\\projekat - hci\\projekat - hci\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|solutionrelative:projekat - hci\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\projekat - hci\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|solutionrelative:projekat - hci\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\projekat - hci\\logovanje.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|solutionrelative:projekat - hci\\logovanje.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\projekat - hci\\izmeni.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|solutionrelative:projekat - hci\\izmeni.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\projekat - hci\\procitaj.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|solutionrelative:projekat - hci\\procitaj.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\projekat - hci\\dodaj.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|solutionrelative:projekat - hci\\dodaj.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\projekat - hci\\izmeni.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|solutionrelative:projekat - hci\\izmeni.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\projekat - hci\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|solutionrelative:projekat - hci\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\projekat - hci\\procitaj.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|solutionrelative:projekat - hci\\procitaj.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\projekat - hci\\logovanje.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B7B11379-46EF-46EA-9C27-CF8EDC102830}|Projekat - HCI\\Projekat - HCI.csproj|solutionrelative:projekat - hci\\logovanje.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0849e941-4665-42e5-8dd0-e4c8da15dbd0}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dodaj.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Dodaj.xaml.cs",
+              "RelativeDocumentMoniker": "Projekat - HCI\\Dodaj.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Dodaj.xaml.cs",
+              "RelativeToolTip": "Projekat - HCI\\Dodaj.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T13:43:42.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Izmeni.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Izmeni.xaml.cs",
+              "RelativeDocumentMoniker": "Projekat - HCI\\Izmeni.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Izmeni.xaml.cs",
+              "RelativeToolTip": "Projekat - HCI\\Izmeni.xaml.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAgwLIAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJjSURBVEhL7ZXLTxNRFMa/eXSG2rShSF80TFIIPqJtaMrCUFywwV2NuENYmLit0aVuXJi40AU7EhftQl2ZphuMZPwDjDFRwQqYNGlMK5RmNCyEOjOlU\u002B8MN4WRhEoiO36Tk3tzzplv7pwzOcNgH0/kRZdWd8rhbjEZ9Ahvu0TuyvjFwBYNHwmWrhYBckV6nfj2Q0X\u002BozKwuaXPvvr0fZiGjwSDG/I1uofXLYi3xgIPPq9tn6v8VDF1yY\u002Bzp/G4sfbhXT6fp1kAz/NwOp2YnJxEKBRaHRkZ\u002BUpDbRjMvNl71VaLERycaLRanMizGOgVcW\u002BiB5xSwPz8PE3axeFwIJVKIRgMPiL2MBKJaMTd2o2awlNyku7h73Z03ZkIz74v/YqWFBU3x4IYP3MKLmyjVqvRLKBUKmFhYQE\u002Bnw/RaLQSj8df67p\u002Bd3R09DdNIcL7eCZXXYagypVNPbnTNJAa7oHPxUBgDTSbTZoFFAoFZLNZsCwLSZIwNDRUicViz0mJXiQSiVUzx9Y8oAZV03Eh1IWrRFTy8nAwTZvofgzDQLlcNh/Uv76\u002Bfr9arZ6nIbtwLABcloBEmEM/EW3omnXzYZhxRVGsHuRyOeoFOLpaDA4OCisrX2Z4jpX8fh/pZbsXNswvgjQLpLaW9fX1oVgsQtO0l8vLywdLsbS0BBKwGnXYST0eD0hN20YORCN7/FVjgHS34\u002Bv/CweE/xcnwm1OhNscm7Btuk1PT7sEQZC9Xm\u002BSGPV2RlVVbGxsmCPgeiaTsf4INuF0Oi02Go3bJHGgXq9Tb2fMoe92u80x\u002BnRubm6Ruo8D4A\u002B/HNPBIu7cbAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-05-15T13:43:42.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Projekat - HCI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Projekat - HCI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAIwCAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJjSURBVEhL7ZXLTxNRFMa/eXSG2rShSF80TFIIPqJtaMrCUFywwV2NuENYmLit0aVuXJi40AU7EhftQl2ZphuMZPwDjDFRwQqYNGlMK5RmNCyEOjOlU\u002B8MN4WRhEoiO36Tk3tzzplv7pwzOcNgH0/kRZdWd8rhbjEZ9Ahvu0TuyvjFwBYNHwmWrhYBckV6nfj2Q0X\u002BozKwuaXPvvr0fZiGjwSDG/I1uofXLYi3xgIPPq9tn6v8VDF1yY\u002Bzp/G4sfbhXT6fp1kAz/NwOp2YnJxEKBRaHRkZ\u002BUpDbRjMvNl71VaLERycaLRanMizGOgVcW\u002BiB5xSwPz8PE3axeFwIJVKIRgMPiL2MBKJaMTd2o2awlNyku7h73Z03ZkIz74v/YqWFBU3x4IYP3MKLmyjVqvRLKBUKmFhYQE\u002Bnw/RaLQSj8df67p\u002Bd3R09DdNIcL7eCZXXYagypVNPbnTNJAa7oHPxUBgDTSbTZoFFAoFZLNZsCwLSZIwNDRUicViz0mJXiQSiVUzx9Y8oAZV03Eh1IWrRFTy8nAwTZvofgzDQLlcNh/Uv76\u002Bfr9arZ6nIbtwLABcloBEmEM/EW3omnXzYZhxRVGsHuRyOeoFOLpaDA4OCisrX2Z4jpX8fh/pZbsXNswvgjQLpLaW9fX1oVgsQtO0l8vLywdLsbS0BBKwGnXYST0eD0hN20YORCN7/FVjgHS34\u002Bv/CweE/xcnwm1OhNscm7Btuk1PT7sEQZC9Xm\u002BSGPV2RlVVbGxsmCPgeiaTsf4INuF0Oi02Go3bJHGgXq9Tb2fMoe92u80x\u002BnRubm6Ruo8D4A\u002B/HNPBIu7cbAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-05-15T13:43:43.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logovanje.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Logovanje.xaml.cs",
+              "RelativeDocumentMoniker": "Projekat - HCI\\Logovanje.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Logovanje.xaml.cs",
+              "RelativeToolTip": "Projekat - HCI\\Logovanje.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwD8AAAAoAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJjSURBVEhL7ZXLTxNRFMa/eXSG2rShSF80TFIIPqJtaMrCUFywwV2NuENYmLit0aVuXJi40AU7EhftQl2ZphuMZPwDjDFRwQqYNGlMK5RmNCyEOjOlU\u002B8MN4WRhEoiO36Tk3tzzplv7pwzOcNgH0/kRZdWd8rhbjEZ9Ahvu0TuyvjFwBYNHwmWrhYBckV6nfj2Q0X\u002BozKwuaXPvvr0fZiGjwSDG/I1uofXLYi3xgIPPq9tn6v8VDF1yY\u002Bzp/G4sfbhXT6fp1kAz/NwOp2YnJxEKBRaHRkZ\u002BUpDbRjMvNl71VaLERycaLRanMizGOgVcW\u002BiB5xSwPz8PE3axeFwIJVKIRgMPiL2MBKJaMTd2o2awlNyku7h73Z03ZkIz74v/YqWFBU3x4IYP3MKLmyjVqvRLKBUKmFhYQE\u002Bnw/RaLQSj8df67p\u002Bd3R09DdNIcL7eCZXXYagypVNPbnTNJAa7oHPxUBgDTSbTZoFFAoFZLNZsCwLSZIwNDRUicViz0mJXiQSiVUzx9Y8oAZV03Eh1IWrRFTy8nAwTZvofgzDQLlcNh/Uv76\u002Bfr9arZ6nIbtwLABcloBEmEM/EW3omnXzYZhxRVGsHuRyOeoFOLpaDA4OCisrX2Z4jpX8fh/pZbsXNswvgjQLpLaW9fX1oVgsQtO0l8vLywdLsbS0BBKwGnXYST0eD0hN20YORCN7/FVjgHS34\u002Bv/CweE/xcnwm1OhNscm7Btuk1PT7sEQZC9Xm\u002BSGPV2RlVVbGxsmCPgeiaTsf4INuF0Oi02Go3bJHGgXq9Tb2fMoe92u80x\u002BnRubm6Ruo8D4A\u002B/HNPBIu7cbAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-05-15T13:43:43.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bayern.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Class\\Bayern.cs",
+              "RelativeDocumentMoniker": "Class\\Bayern.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Class\\Bayern.cs",
+              "RelativeToolTip": "Class\\Bayern.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T13:43:43.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dodaj.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Dodaj.xaml",
+              "RelativeDocumentMoniker": "Projekat - HCI\\Dodaj.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Dodaj.xaml",
+              "RelativeToolTip": "Projekat - HCI\\Dodaj.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-05-15T13:43:43.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Projekat - HCI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\MainWindow.xaml",
+              "RelativeToolTip": "Projekat - HCI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-05-15T13:43:43.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataIO.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Class\\DataIO.cs",
+              "RelativeDocumentMoniker": "Class\\DataIO.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Class\\DataIO.cs",
+              "RelativeToolTip": "Class\\DataIO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-15T13:43:43.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Procitaj.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Procitaj.xaml.cs",
+              "RelativeDocumentMoniker": "Projekat - HCI\\Procitaj.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Procitaj.xaml.cs",
+              "RelativeToolTip": "Projekat - HCI\\Procitaj.xaml.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAsAAAASAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJjSURBVEhL7ZXLTxNRFMa/eXSG2rShSF80TFIIPqJtaMrCUFywwV2NuENYmLit0aVuXJi40AU7EhftQl2ZphuMZPwDjDFRwQqYNGlMK5RmNCyEOjOlU\u002B8MN4WRhEoiO36Tk3tzzplv7pwzOcNgH0/kRZdWd8rhbjEZ9Ahvu0TuyvjFwBYNHwmWrhYBckV6nfj2Q0X\u002BozKwuaXPvvr0fZiGjwSDG/I1uofXLYi3xgIPPq9tn6v8VDF1yY\u002Bzp/G4sfbhXT6fp1kAz/NwOp2YnJxEKBRaHRkZ\u002BUpDbRjMvNl71VaLERycaLRanMizGOgVcW\u002BiB5xSwPz8PE3axeFwIJVKIRgMPiL2MBKJaMTd2o2awlNyku7h73Z03ZkIz74v/YqWFBU3x4IYP3MKLmyjVqvRLKBUKmFhYQE\u002Bnw/RaLQSj8df67p\u002Bd3R09DdNIcL7eCZXXYagypVNPbnTNJAa7oHPxUBgDTSbTZoFFAoFZLNZsCwLSZIwNDRUicViz0mJXiQSiVUzx9Y8oAZV03Eh1IWrRFTy8nAwTZvofgzDQLlcNh/Uv76\u002Bfr9arZ6nIbtwLABcloBEmEM/EW3omnXzYZhxRVGsHuRyOeoFOLpaDA4OCisrX2Z4jpX8fh/pZbsXNswvgjQLpLaW9fX1oVgsQtO0l8vLywdLsbS0BBKwGnXYST0eD0hN20YORCN7/FVjgHS34\u002Bv/CweE/xcnwm1OhNscm7Btuk1PT7sEQZC9Xm\u002BSGPV2RlVVbGxsmCPgeiaTsf4INuF0Oi02Go3bJHGgXq9Tb2fMoe92u80x\u002BnRubm6Ruo8D4A\u002B/HNPBIu7cbAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-05-15T13:43:42.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Izmeni.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Izmeni.xaml",
+              "RelativeDocumentMoniker": "Projekat - HCI\\Izmeni.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Izmeni.xaml",
+              "RelativeToolTip": "Projekat - HCI\\Izmeni.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-05-15T13:43:43.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\App.config",
+              "RelativeDocumentMoniker": "Projekat - HCI\\App.config",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\App.config",
+              "RelativeToolTip": "Projekat - HCI\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAL5SURBVEhLtVVLS1tREP68Ro2PKGZhxVdMummzkLoxkdBSNxVs0ZoI3Yr4zKq/oNCNf8BFi6CCXXRjAllEsAgqwUARQdAQEEvEd13ER0QT66Mz05tbKZE0Kf1gOPfOOfc7Z\u002BabORf/CznqCLfb/eT6\u002Bro/Fovh6upK9aaGoigoKiqC0\u002BlEdXW1v7Gx0a9OadCpIy4uLsy5ublDFosFBQUFqjc1ePODgwNsb2\u002BDDmNcXl6OnZ6eBltaWrQTaSfu6urq1Ov13sHBQZjNZtWbGqurqxgfH4dOp4PNZmP7St\u002B2Hx0dRZPkiqzMEnRahEIhzM7OWiliX1lZmUOd\u002Bjfi29tbnJycYGtry7C0tGSPx\u002BNDZ2dnr3guK2IWrr6\u002BXsxkMsk7EePm5uYNTb/kNVkRswasRdI6OjrET8QyMjTivr4\u002BdHd3ywkKCwuRn58vZZWTo\u002Bmrgf1cOUnjtX9CiA8PD5\u002BWlJS84BJaWFjA4uIiNjc3heA\u002B8nRQiMxCIriOj487PR4PRkZGMDY2hvn5eRGGw8uKmOwLEUeMRuP7gYEBVFVVIRKJYGZmBj6fj6MBNc6v1RlAmZiYeEjhO4uLi00Gg\u002BFtRUXFt9LSUumsYDAIiiQ74unpaVBLPiOS51NTU9/Pz89/cOiJREJalgpf8pwpFCLizgHl10ad9DkcDj9iQiZP5pYbIVMoDocD5eXl2N3dldBZsCQ4BdRNuLy8lOdMRFTa2trQ3NyMmpoaIeG6pNIDXSrgaAKBAKdKTn03inTQ2e32IBNGo1ERilFZWVlLG9RSWoSYSemCQV1dHfLy8mRNuvQoJFIrhdpKz63UcWLDw8Ofent7hYg35aYZHR2V0mPCvxEzZVx7e3uPyV5T3t95vV792tqakDU1NcHlcokmfv/vnwZvzuXZ09ODhoaGj5TKIe0PchfUJGFamKCUPNjf328n4cwrKyvY2NjA\u002Bvp6wGq1hviyT6aDheXa583JF2BfWiV2dnY8c3NzzsnJSfmYxHNTvX9Qp\u002B8B8BMlpl/sKKL0ggAAAABJRU5ErkJggg==",
+              "WhenOpened": "2023-05-15T13:43:43.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Procitaj.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Procitaj.xaml",
+              "RelativeDocumentMoniker": "Projekat - HCI\\Procitaj.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Procitaj.xaml",
+              "RelativeToolTip": "Projekat - HCI\\Procitaj.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-05-15T13:43:43.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logovanje.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Logovanje.xaml",
+              "RelativeDocumentMoniker": "Projekat - HCI\\Logovanje.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\3. godina\\2. semestar\\HCI\\PZ1\\PROJEKAT SAM\\Projekat - HCI\\Projekat - HCI\\Logovanje.xaml",
+              "RelativeToolTip": "Projekat - HCI\\Logovanje.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2023-05-15T13:43:43.401Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

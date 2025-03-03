@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Class\bin\Debug\Class.dll
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Class\bin\Debug\Class.pdb
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Class\obj\Debug\Class.dll
+C:\Users\Lenovo\Desktop\PROJEKAT SAM\Projekat - HCI\Class\obj\Debug\Class.pdb
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Class\bin\Debug\Class.dll
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Class\bin\Debug\Class.pdb
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Class\obj\Debug\Class.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Class\obj\Debug\Class.dll
+C:\Users\Lenovo\Desktop\3. godina\2. semestar\HCI\PZ1\PROJEKAT SAM\Projekat - HCI\Class\obj\Debug\Class.pdb
