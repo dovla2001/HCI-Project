@@ -1,1 +1,1 @@
-#Project for the course Human-Computer Interaction
+Project for the course Human-Computer Interaction
